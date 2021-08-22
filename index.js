@@ -1,4 +1,4 @@
-let myEmojis = ["💻", "🚲", "🍔"]
+let myEmojis = ["💻", "🚲", "🍔", "🐕"]
 
 const pushBtn = document.getElementById("push-btn")
 const unshiftBtn = document.getElementById("unshift-btn")
